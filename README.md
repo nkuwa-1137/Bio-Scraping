@@ -1,2 +1,2 @@
 # Bio-Scraping
-web scraping for b
+web scraping for bio sequence.
